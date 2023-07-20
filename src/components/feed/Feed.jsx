@@ -1,9 +1,15 @@
 import React from 'react';
 import "./Feed.css";
+import Post from '../../components/post/Post';
+import Share from '../../components/share/Share';
 export default function Feed(){
     return(
         <div className='feed'>
-            Feed
+            <div className="feedWrapper">
+                <Share/>
+                <Post/>
+
+            </div>
         </div>
     )
 }
