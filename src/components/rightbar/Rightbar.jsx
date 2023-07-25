@@ -15,7 +15,7 @@ export default function Rightbar(){
             <ul className="rightbarFriendList">
                 <li className="rightbarFriend">
                     <div className="rightbarProfileImgContainer">
-                        <img src="assets/person/16.jpeg" alt="" className="rightbarProfileImg" />
+                        <img src="assets/person/2.jpeg" alt="" className="rightbarProfileImg" />
                         <span className="rightbarOnline"></span>
                     </div>
                     <span className="rightbarUsername"> Meriem sadik</span>
