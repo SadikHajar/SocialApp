@@ -1,9 +1,10 @@
 import Home from "./pages/home/Home";
 import {Person} from "@mui/icons-material";
+import Profile from "./pages/profile/Profile";
 
 
 function App() {
-  return <Home/>
+  return <Profile/>
 }
 
 export default App;
